@@ -1,2 +1,4 @@
 #Week 5 was especially denseand youtube videos didn't make sense
 Used Jenny's Lectures for everything
+#week5
+What is Normal Form: https://www.geeksforgeeks.org/first-normal-form-1nf/
